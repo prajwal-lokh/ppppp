@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "973719210791",
+    "project_id": "annachatracli22",
+    "storage_bucket": "annachatracli22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973719210791:android:27a0f4bc5caba1e6fef702",
+        "android_client_info": {
+          "package_name": "com.example.anna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973719210791-li4hsus1op7uvchjs927pvqhabalfpgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAArwnxf_cICqDwL6sOOgwrByFm4ryj-OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973719210791-li4hsus1op7uvchjs927pvqhabalfpgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
